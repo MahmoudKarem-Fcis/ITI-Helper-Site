@@ -1,0 +1,13 @@
+<html>
+<title></title>
+<head></head>
+<body>
+<h3 align="center">4 page </h3>
+
+<a href="4page.html"><img align="left" src="go_prev.png" width="50" height="60" title="next_page" alt="no Image"  hspace="40" vspace="40"/></a>
+
+<a href="6page.html"><img align="left" src="go_next.png" width="40" height="55" title="next_page" alt="no Image"  hspace="40" vspace="40"/></a>
+
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        body {
+            background-image: url("iti_background.jpg");
+            background-position: left;
+            background-repeat: no-repeat;
+        }
+
+        #main {
+            border: 2px solid black;
+            margin-bottom: 100px;
+            width: 400px;
+            height: 100px;
+            padding: 50px;
+            text-align: center;
+        }
+
+        #next_prev {
+            border: 2px solid black;
+            margin-bottom: 100px;
+            width: 400px;
+            height: 100px;
+            padding: 50px;
+            text-align: center;
+        }
+    </style>
+
+
+</head>
+<body>
+    <div id="main">
+        <a align="right" name="top" href="#bottom"> <img src="go_down.png" width="75" height="100" title="ITI Home page" alt="no Image" hspace="40" vspace="40" /> </a>
+
+        <a href="https://iti.gov.eg/iti/home"> <img align="right" src="iti-logo.png" width="400" height="400" title="ITI Home page" alt="no Image" hspace="40" vspace="40" /> </a>
+
+
+
+
+
+        <div id="next_prev">
+
+
+            <a href="projec.html"><img align="left" src="go_prev.png" width="50" height="60" title="next_page" alt="no Image" hspace="40" vspace="40" /></a>
+
+            <a href="2page.html"><img align="left" src="go_next.png" width="40" height="55" title="next_page" alt="no Image" hspace="40" vspace="40" /></a>
+
+        </div>
+<pre>
+</pre>
+        <a name="bottom" href="#top"> <img src="go_up.png" width="90" height="100" title="kids" alt="no Image" hspace="40" vspace="40" /> </a>
+
+    </div>
+</body>
+</html>
